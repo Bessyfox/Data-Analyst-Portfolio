@@ -4,12 +4,14 @@
 
 Здесь представлены разнообразные проекты, демонстрирующие полученные мною навыки в области аналитики данных:
 
-- [аналитический отчёт в Google Sheets (учебный проект)](https://docs.google.com/spreadsheets/d/1t0zvVOVuqNaRhmTAVHtMuMif33GOc8hi-WQ7af29QHM/edit?usp=sharing)
-- [аналитический отчёт в Google Sheets (самостоятельный проект)](https://docs.google.com/spreadsheets/d/1kaBL4hXofkmuvptZKhNmmPcU5wue78rAloeBczRY-SU/edit?usp=sharing))
-- основы SQL: извлечение данных
-- SQL: обработка данных
-- SQL: анализ данных и решение ad hoc задач
-- визуализация данных с помощью DataLens, создание дашбордов
-- Python: предобработка данных
-- исследовательский анализ данных и визуализация с помощью Python
-- расчёт и визуализация бизнес-метрик и показателей (с помощью SQL и Datalens)
+1. **Аналитический отчёт в Google Sheets:**
+   - [учебный проект "Поиск точек для роста прибыли небольшого салона для кудрявых Waves"](https://docs.google.com/spreadsheets/d/1t0zvVOVuqNaRhmTAVHtMuMif33GOc8hi-WQ7af29QHM/edit?usp=sharing)
+   - [самостоятельный проект "Изучение динамики запросов в команду поддержки английского от Яндекс Практикума"](https://docs.google.com/spreadsheets/d/1kaBL4hXofkmuvptZKhNmmPcU5wue78rAloeBczRY-SU/edit?usp=sharing)
+2. **Основы SQL (извлечение данных):**
+   - [самостоятельный проект "Исследование объявлений на сайте по поиску работы hh.ru"]()
+3. SQL: обработка данных
+4. SQL: анализ данных и решение ad hoc задач
+5. Визуализация данных с помощью DataLens, создание дашбордов
+6. Python: предобработка данных
+7. Исследовательский анализ данных и визуализация с помощью Python
+8. Расчёт и визуализация бизнес-метрик и показателей (с помощью SQL и Datalens)
