@@ -4,7 +4,7 @@
 
 Здесь представлены разнообразные проекты, демонстрирующие полученные мною навыки в области аналитики данных:
 
-- аналитический отчёт в Google Sheets
+- [аналитический отчёт в Google Sheets](https://docs.google.com/spreadsheets/d/1t0zvVOVuqNaRhmTAVHtMuMif33GOc8hi-WQ7af29QHM/edit?usp=sharing)
 - основы SQL: извлечение данных
 - SQL: обработка данных
 - SQL: анализ данных и решение ad hoc задач
