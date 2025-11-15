@@ -8,7 +8,7 @@
    - [учебный проект "Поиск точек для роста прибыли небольшого салона для кудрявых Waves"](https://docs.google.com/spreadsheets/d/1t0zvVOVuqNaRhmTAVHtMuMif33GOc8hi-WQ7af29QHM/edit?usp=sharing)
    - [самостоятельный проект "Изучение динамики запросов в команду поддержки английского от Яндекс Практикума"](https://docs.google.com/spreadsheets/d/1kaBL4hXofkmuvptZKhNmmPcU5wue78rAloeBczRY-SU/edit?usp=sharing)
 2. **Основы SQL (извлечение данных):**
-   - [самостоятельный проект "Исследование объявлений на сайте по поиску работы hh.ru"]()
+   - [самостоятельный проект "Исследование объявлений на сайте по поиску работы hh.ru"](HH.ru_pesochnica_case.sql)
 3. SQL: обработка данных
 4. SQL: анализ данных и решение ad hoc задач
 5. Визуализация данных с помощью DataLens, создание дашбордов
